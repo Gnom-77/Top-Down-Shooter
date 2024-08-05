@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Project\\Top Down Shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|c:\\my project\\top down shooter\\assets\\scripts\\player\\stayonzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\stayonzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\enemy\\dangerzonegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\dangerzonegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\accelerationboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\accelerationboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\granade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\granade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\weaponspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\weaponspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\takeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\takeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\shotgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\shieldboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\shieldboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\scorecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\recordinmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordinmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\losswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\losswindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\grenadelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\grenadelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\gainspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\gainspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\enemy\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\buttonmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|C:\\My Project\\Top Down Shooter\\assets\\scripts\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F948D9E2-CBAA-268D-E616-F384CF425487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecordInMainMenu.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\RecordInMainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordInMainMenu.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\RecordInMainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecordInMainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:32:32.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LossWindow.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\LossWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LossWindow.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\LossWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LossWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:07:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ButtonManeger.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\ButtonManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonManeger.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\ButtonManeger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonManeger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T00:23:32.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StayOnZone.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\StayOnZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\StayOnZone.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\StayOnZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\StayOnZone.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:15:29.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangerZoneGenerator.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\DangerZoneGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\DangerZoneGenerator.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\DangerZoneGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\DangerZoneGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:21:30.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShieldBoost.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\ShieldBoost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\ShieldBoost.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\ShieldBoost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\ShieldBoost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:56:13.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccelerationBoost.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\AccelerationBoost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AccelerationBoost.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\AccelerationBoost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\AccelerationBoost.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:41:32.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GainSpawner.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\GainSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\GainSpawner.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\GainSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\GainSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:26:37.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponSpawner.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\WeaponSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WeaponSpawner.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\WeaponSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\WeaponSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:31:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TakeWeapon.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\TakeWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\TakeWeapon.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\TakeWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\TakeWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:47:12.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:33:32.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScoreCount.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\ScoreCount.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreCount.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\ScoreCount.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:15:10.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnemyType.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\EnemyType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyType.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\EnemyType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:58:14.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:46:20.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:26:41.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Granade.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Granade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Granade.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Granade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Granade.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:44:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GrenadeLauncher.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\GrenadeLauncher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\GrenadeLauncher.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\GrenadeLauncher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\GrenadeLauncher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:22:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shotgun.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Shotgun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Shotgun.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Shotgun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Shotgun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:51:57.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BulletPool.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\BulletPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletPool.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\BulletPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:23:02.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Bullet.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:07:45.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:53:26.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:18:55.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Gun.cs",
+              "ToolTip": "C:\\My Project\\Top Down Shooter\\Assets\\Scripts\\Player\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Gun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:38:17.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
